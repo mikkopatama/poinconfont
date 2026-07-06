@@ -1,4 +1,5 @@
-# Poinconfont
+# Poincon
+
 Poincon is a Sibelius compatible version of [Eugene](https://github.com/mikkopatama/eugenefont/), a music font inspired by early 20th century French music engraving.
 
 The primary visual references are Debussy works from the Fromont catalog, including: Prélude à "l'Après-midi d'un faune" (1895), Ariettes Oubliées (1903), Suite bergamasque (1905). Other references include Durand publications from the same era.

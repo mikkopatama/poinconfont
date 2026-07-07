@@ -16,7 +16,7 @@ All original glyphs are designed against first-edition scans from the Bibliothè
 
 # Installation
 
-1. Copy `PoinconStd.otf`, `PoinconTextStd.otf`, `PoinconSpecialStd.otf` and `PoinconOrnamentsStd.otf` to `~/Library/Fonts/` (macOS) or `%LOCALAPPDATA%\Microsoft\Windows\Fonts\` (Windows)
+1. Copy `PoinconStd.otf`, `PoinconTextStd.otf`, `PoinconSpecialStd.otf`, `PoinconSpecialExtraStd.otf` and `PoinconOrnamentsStd.otf` to `~/Library/Fonts/` (macOS) or `%LOCALAPPDATA%\Microsoft\Windows\Fonts\` (Windows)
 2. Start Sibelius and navigate to: File > Preferences > Music Fonts
 3. Click "Choose..." next to "Music font:" and choose `Poincon Std`. After choosing the font, click "Add Font" and it will be added on the music font list.
 4. Choose `Poincon Std`on the list. Copy all the settings shown on the screenshot below and click "Set Substitutions". Close the preferences window.
